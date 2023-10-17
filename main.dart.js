@@ -95119,7 +95119,7 @@ q.rA($.axP())
 return q})
 s($,"aUW","axG",()=>$.kQ())
 s($,"aUX","aFr",()=>{var q=$.axG().ax
-return A.aq(["Authorization",q.gl(q).c,"Access-Control-Allow-Origin","*","Content-Type","text/html"],t.N,t.ob)})
+return A.aq(["Authorization",q.gl(q).c,"Access-Control-Allow-Origin","https://api.owlance.metir.my.id/","Access-Control-Allow-Headers","Content-Type, Authorization","Access-Control-Allow-Methods","GET, POST, PUT, DELETE","Access-Control-Expose-Headers","X-Custom-Header","Access-Control-Allow-Credentials",!0,"Content-Type","text/html"],t.N,t.X)})
 r($,"aWb","kQ",()=>{var q,p,o,n=null
 $.aA()
 q=A.aNi(A.aLb(n,n,n,n,n,n,n),t.Fi)
