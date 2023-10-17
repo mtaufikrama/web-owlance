@@ -94678,7 +94678,8 @@ $.AX=A.z(A.ae("bW<@>?"),t.yp)
 $.q4=A.z(A.ae("bW<@>?"),A.ae("avi<jS>"))
 $.ut=null
 $.AZ=null
-$.aIt=A.aq(["Access-Control-Allow-Origin","https://api.owlance.metir.my.id/","Access-Control-Allow-Headers","Content-Type","Access-Control-Allow-Methods","GET, POST, PUT, DELETE","Access-Control-Expose-Headers","X-Custom-Header","Access-Control-Allow-Credentials",!0,"Content-Type","text/html"],t.N,t.K)
+$.aIt=function(){var s=t.N
+return A.aq(["Content-Type","text/plain; charset=utf-8"],s,s)}()
 $.aDr=null
 $.ase=null
 $.aLF=A.z(t.S,A.ae("aVZ"))
